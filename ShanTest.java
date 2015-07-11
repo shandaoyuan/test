@@ -10,9 +10,9 @@ public class ShanTest {
     // "\"productList\":[{\"pid\":\"RA001\",\"pname\":\"产品1\"},{\"pid\":\"RA002\",\"pname\":\"产品2\"}]}}," +
     // "\"args\":[{\"tit\":\"RA001\",\"val\":\"产品1\"},{\"tit\":\"RA002\",\"val\":\"产品2\"}]}";
 
-    private static String jsonStr =
+    /*private static String jsonStr =
             "{\"agencyProductId\":\"11111\",\"planInfo\":[{\"planDateStr\":\"plan1,plan2\",\"datePriceList\":[{\"schemeIds\":\"aa,bb\",\"scheduleId\":\"bb\"}]}]}";
-
+*/
     public static void main(String[] args) throws Exception {
 
         // date,scheme,value
